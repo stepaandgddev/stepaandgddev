@@ -1,16 +1,27 @@
-## Hi there 👋
+<style>
+  div{
+    align-content: center;
+    text-align: center;
+  }
+</style>
+<div>
+  <h1>🔲 StepaAndGD<h1>
+  
+  🇷🇺 From Russia!
+  
+  🎞️ Developer and Animator!
+  
+  🪟💚 Windows user, in random moment using Mint on second PC 
+  
+  🐍 I 💙 Python
+  
+  💻 Know HTML, CSS, JS (a bit), Scratch, C++ (a bit), BluePrint, Blender, C#, C# Unity, Lua, MIT App Inventor
 
-<!--
-**stepaandgdscnd/stepaandgdscnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://youtube.com/@StepaAndGD-reborn"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="https://t.me/stepaandgd_secret"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+  <!-- <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a> !-->
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=stepaandgdsec&style=flat-square&color=green" alt=""/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stepaandgdscnd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
