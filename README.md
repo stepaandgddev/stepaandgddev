@@ -1,6 +1,6 @@
 # 🔲 StepaAndGD
 [![stepaandgd](https://mynickname.com/img.php?nick=stepaandgd&sert=23&text=t1)](https://mynickname.com/id1836688)
-[url=https://mynickname.com/id1836696][img]https://mynickname.com/forum4t0/stepaandgd.dev.gif[/img][/url]
+[![Nickname stepaandgd.dev registred!](https://mynickname.com/img.php?nick=stepaandgd.dev&sert=24&text=t0)](https://mynickname.com/id1836696)
 
 🇷🇺 From Russia!  
 🎞️ Developer and Animator!  
