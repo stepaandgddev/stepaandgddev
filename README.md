@@ -1,4 +1,5 @@
 # 🔲 StepaAndGD
+[![stepaandgd](https://mynickname.com/img.php?nick=stepaandgd&sert=23&text=t1)](https://mynickname.com/id1836688)
 
 🇷🇺 From Russia!  
 🎞️ Developer and Animator!  
